@@ -1,7 +1,6 @@
 # About Me 👋
 
-![Computer GIF]
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/077i6AULCXc0FKTj9s" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computer-mograph-hack-077i6AULCXc0FKTj9s">via GIPHY</a></p>
+![Computer GIF](https://giphy.com/gifs/computer-mograph-hack-077i6AULCXc0FKTj9s)
 
 Hello! I'm **Niel Brags**, a dedicated **Technical Engineer specializing in Antivirus** solutions. With a strong passion for cybersecurity, I focus on developing innovative tools to combat cyber threats and protect digital environments. My goal is to create a safer online world for users everywhere.
 
